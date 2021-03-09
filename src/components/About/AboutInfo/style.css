@@ -1,0 +1,11 @@
+.About p {
+    color: #212562;
+    font-size: 1.2rem;
+}
+
+.SethPhoto {
+    max-width: 60%;
+    max-height: 60%;
+    float: left;
+    margin-right: 10px;
+}

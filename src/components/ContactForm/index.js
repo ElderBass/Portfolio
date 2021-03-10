@@ -4,7 +4,7 @@ import ContactFormHeader from "./ContactFormHeader";
 import "./style.css";
 
 const ContactForm = (props) => (
-  <div className="container ContentContainer">
+  <div className="container ContactContainer">
     <ContactFormHeader />
     <div className="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
@@ -14,7 +14,7 @@ const ContactForm = (props) => (
             <input
               type="email"
               class="form-control"
-              id="nameInput"
+              name="nameInput"
               placeholder="Name"
             />
           </div>
@@ -23,7 +23,7 @@ const ContactForm = (props) => (
             <input
               type="email"
               class="form-control"
-              id="emailInput"
+              name="emailInput"
               placeholder="Email"
             />
           </div>
@@ -31,7 +31,7 @@ const ContactForm = (props) => (
             <label for="message">Message</label>
             <textarea
               class="form-control"
-              id="message"
+              name="message"
               placeholder="Message"
               rows="3"
             ></textarea>

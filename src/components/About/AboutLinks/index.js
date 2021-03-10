@@ -13,7 +13,7 @@ const AboutLinks = (props) => (
         </li>
         <li>
           <strong>GitHub: </strong>{" "}
-          <a href="https://github.com/ElderBass" target="_blank">
+          <a href="https://github.com/ElderBass" target="_blank" rel="noreferrer">
             ElderBass
           </a>
         </li>
@@ -22,6 +22,7 @@ const AboutLinks = (props) => (
           <a
             href="https://www.linkedin.com/in/seth-zygarlicke-29a76b174/"
             target="_blank"
+            rel="noreferrer"
           >
             Seth Zygarlicke
           </a>
@@ -31,6 +32,7 @@ const AboutLinks = (props) => (
           <a
             href="https://docs.google.com/document/d/11MnIVvpg2wUXSmUTuPD2VRZYtHtnLF9xeeuFIVFh6B4/edit?usp=sharing"
             target="_blank"
+            rel="noreferrer"
           >
             Google Drive Document
           </a>

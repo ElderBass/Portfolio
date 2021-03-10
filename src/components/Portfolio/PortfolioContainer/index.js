@@ -9,7 +9,7 @@ import "./style.css";
 
 const PortfolioContainer = (props) => {
   return (
-    <div className="container ContentContainer">
+    <div className="container PortfolioContainer">
       <div className="row">
         <div className="col-lg-8 col-md-9 col-sm-12 col-xs-12">
           <PortfolioHeader />

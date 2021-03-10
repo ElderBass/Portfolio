@@ -7,7 +7,7 @@ import "./style.css";
 
 const AboutPage = (props) => (
   <>
-    <div className="container ContentContainer">
+    <div className="container AboutContainer">
       <AboutHeader />
       <hr />
       <AboutInfo />

@@ -10,7 +10,7 @@ const AboutInfo = (props) => (
       <img
         src={profilePic}
         className="SethPhoto"
-        alt="Photo of Seth"
+        alt="Seth"
       />
       <p>
         Hello there! My name is Seth Zygarlicke and I am orginally from Grand

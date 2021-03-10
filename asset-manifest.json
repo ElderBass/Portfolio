@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.cde2a4de.chunk.css",
-    "main.js": "/Portfolio/static/js/main.5d797004.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.5d797004.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.b0bae66a.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b0bae66a.js.map",
-    "static/js/2.1bc70d4d.chunk.js": "/Portfolio/static/js/2.1bc70d4d.chunk.js",
-    "static/js/2.1bc70d4d.chunk.js.map": "/Portfolio/static/js/2.1bc70d4d.chunk.js.map",
-    "static/js/3.78d28d61.chunk.js": "/Portfolio/static/js/3.78d28d61.chunk.js",
-    "static/js/3.78d28d61.chunk.js.map": "/Portfolio/static/js/3.78d28d61.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "static/css/main.cde2a4de.chunk.css.map": "/Portfolio/static/css/main.cde2a4de.chunk.css.map",
-    "static/js/2.1bc70d4d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1bc70d4d.chunk.js.LICENSE.txt",
-    "static/media/Flick-Finder-Demo.5efbd767.gif": "/Portfolio/static/media/Flick-Finder-Demo.5efbd767.gif",
-    "static/media/Password_Demo.7200bde9.gif": "/Portfolio/static/media/Password_Demo.7200bde9.gif",
-    "static/media/Photo-Of-Seth.833c2e09.png": "/Portfolio/static/media/Photo-Of-Seth.833c2e09.png",
-    "static/media/Quiz_Demo.c9463140.gif": "/Portfolio/static/media/Quiz_Demo.c9463140.gif",
-    "static/media/Weather_Dashboard.abe78423.gif": "/Portfolio/static/media/Weather_Dashboard.abe78423.gif",
-    "static/media/fitness-tracker.7ce9cef8.gif": "/Portfolio/static/media/fitness-tracker.7ce9cef8.gif",
-    "static/media/quilava-demo.bcf0d450.gif": "/Portfolio/static/media/quilava-demo.bcf0d450.gif"
+    "main.css": "/React-Portfolio/static/css/main.cde2a4de.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.6cd69758.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.6cd69758.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.b66f3c0d.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.b66f3c0d.js.map",
+    "static/js/2.03a51885.chunk.js": "/React-Portfolio/static/js/2.03a51885.chunk.js",
+    "static/js/2.03a51885.chunk.js.map": "/React-Portfolio/static/js/2.03a51885.chunk.js.map",
+    "static/js/3.78d28d61.chunk.js": "/React-Portfolio/static/js/3.78d28d61.chunk.js",
+    "static/js/3.78d28d61.chunk.js.map": "/React-Portfolio/static/js/3.78d28d61.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.cde2a4de.chunk.css.map": "/React-Portfolio/static/css/main.cde2a4de.chunk.css.map",
+    "static/js/2.03a51885.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.03a51885.chunk.js.LICENSE.txt",
+    "static/media/Flick-Finder-Demo.5efbd767.gif": "/React-Portfolio/static/media/Flick-Finder-Demo.5efbd767.gif",
+    "static/media/Password_Demo.7200bde9.gif": "/React-Portfolio/static/media/Password_Demo.7200bde9.gif",
+    "static/media/Photo-Of-Seth.833c2e09.png": "/React-Portfolio/static/media/Photo-Of-Seth.833c2e09.png",
+    "static/media/Quiz_Demo.c9463140.gif": "/React-Portfolio/static/media/Quiz_Demo.c9463140.gif",
+    "static/media/Weather_Dashboard.abe78423.gif": "/React-Portfolio/static/media/Weather_Dashboard.abe78423.gif",
+    "static/media/fitness-tracker.7ce9cef8.gif": "/React-Portfolio/static/media/fitness-tracker.7ce9cef8.gif",
+    "static/media/quilava-demo.bcf0d450.gif": "/React-Portfolio/static/media/quilava-demo.bcf0d450.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0bae66a.js",
-    "static/js/2.1bc70d4d.chunk.js",
+    "static/js/runtime-main.b66f3c0d.js",
+    "static/js/2.03a51885.chunk.js",
     "static/css/main.cde2a4de.chunk.css",
-    "static/js/main.5d797004.chunk.js"
+    "static/js/main.6cd69758.chunk.js"
   ]
 }

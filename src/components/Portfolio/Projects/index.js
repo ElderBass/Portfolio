@@ -10,7 +10,6 @@ const Projects = (props) => {
         <u>{props.name}</u>
       </h3>
       <p>{props.description}</p>
-      <br />
       <img
         src={props.image}
         className="PortfolioPics"

@@ -24,6 +24,7 @@ const Projects = (props) => {
         <strong>Deployed:</strong> <a href={props.deployed}>{props.deployed}</a>
       </p>
       <br />
+      <hr/>
     </>
   );
 };

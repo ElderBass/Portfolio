@@ -3,6 +3,7 @@ import flickFinder from "../images/Flick-Finder-Demo.gif";
 import password from "../images/Password_Demo.gif";
 import quiz from "../images/Quiz_Demo.gif";
 import weather from "../images/Weather_Dashboard.gif";
+import fitness from "../images/fitness-tracker.gif";
 
 const projectsArr = [
  {
@@ -45,6 +46,14 @@ const projectsArr = [
     "description": "An app for checking the weather in any city.",
     "repo": "https://github.com/ElderBass/Weather-Dashboard.git",
     "deployed": "https://elderbass.github.io/Weather-Dashboard/"
+  },
+  {
+    "id": 6,
+    "name": "Fitness Tracker",
+    "image": fitness,
+    "description": "An app for creating, logging, and viewing workouts.",
+    "repo": "https://github.com/ElderBass/Fitness-Tracker.git",
+    "deployed": "https://serene-ocean-84827.herokuapp.com/"
   }
 ]
 

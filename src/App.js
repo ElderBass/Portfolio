@@ -15,7 +15,7 @@ function App() {
       <div className="MainContainer">
         <Route exact path="/" component={About} />
         <Route exact path="/contact" component={Contact} />
-        <Route exact path="/portfolio" component={Portfolio} />
+        <Route exact path="/folio" component={Portfolio} />
       </div>
 
       <Footer />

@@ -29,7 +29,7 @@ const Navbar = (props) => {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" style={{color: "violet"}} href="/portfolio">
+            <a className="nav-link" style={{color: "violet"}} href="/folio">
               Portfolio
             </a>
           </li>

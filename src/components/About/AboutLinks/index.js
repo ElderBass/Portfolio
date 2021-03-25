@@ -30,11 +30,11 @@ const AboutLinks = (props) => (
         <li>
           <strong>CV/Resume: </strong>{" "}
           <a
-            href="https://docs.google.com/document/d/11MnIVvpg2wUXSmUTuPD2VRZYtHtnLF9xeeuFIVFh6B4/edit?usp=sharing"
+            href="https://www.cakeresume.com/seth-zygarlicke"
             target="_blank"
             rel="noreferrer"
           >
-            Google Drive Document
+            View My Resume
           </a>
         </li>
       </ul>

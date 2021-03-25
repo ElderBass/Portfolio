@@ -2,3 +2,9 @@
     color: #212529;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.ContactHeader h1 {
+    margin-bottom: 0px;
+    margin-left: 15px;
+    font-size: 64px;
+}

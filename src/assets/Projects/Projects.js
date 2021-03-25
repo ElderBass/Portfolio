@@ -4,10 +4,19 @@ import password from "../images/Password_Demo.gif";
 import quiz from "../images/Quiz_Demo.gif";
 import weather from "../images/Weather_Dashboard.gif";
 import fitness from "../images/fitness-tracker.gif";
+import fader from "../images/fader-demo.gif";
 
 const projectsArr = [
- {
+  {
     "id": 1,
+    "name": "Fader",
+    "image": fader,
+    "description": "A creative, collaboritive studio for artists and everyone, featuring a fully functional 16-step sequencer.",
+    "repo": "https://github.com/ElderBass/Fader.git",
+    "deployed": "https://fader-project3.herokuapp.com/",
+  },
+ {
+    "id": 2,
     "name": "Quilava",
     "image": quilava,
     "description": "A social media studio for artists.",
@@ -15,7 +24,7 @@ const projectsArr = [
     "deployed": "https://quilava-project2.herokuapp.com/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Flick Finder",
     "image": flickFinder,
     "description": "An app for finding on what media platform movies/shows are available.",
@@ -23,7 +32,7 @@ const projectsArr = [
     "deployed": "https://elderbass.github.io/API-Project-Treecko/"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Password Generator",
     "image": password,
     "description": "An app for generating a random, secure password.",
@@ -31,7 +40,7 @@ const projectsArr = [
     "deployed": "https://elderbass.github.io/Password_Generator/"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "TV Show Quiz",
     "image": quiz,
     "description": "A quiz game for popular TV shows.",
@@ -40,7 +49,7 @@ const projectsArr = [
   },
 
   {
-    "id": 5,
+    "id": 6,
     "name": "Weather Dashobard",
     "image": weather,
     "description": "An app for checking the weather in any city.",
@@ -48,13 +57,13 @@ const projectsArr = [
     "deployed": "https://elderbass.github.io/Weather-Dashboard/"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Fitness Tracker",
     "image": fitness,
     "description": "An app for creating, logging, and viewing workouts.",
     "repo": "https://github.com/ElderBass/Fitness-Tracker.git",
     "deployed": "https://serene-ocean-84827.herokuapp.com/"
-  }
+  },
 ]
 
 export default projectsArr;

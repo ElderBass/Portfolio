@@ -3,11 +3,23 @@
     width: 100%;
 }
 
-.Span {
+#Span {
     color: violet;
     margin-left: 15px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 28px;
     font-weight: 900;
+    cursor: pointer;
+}
 
+#Span:hover {
+    color: slateblue;
+}
+
+#navLink {
+    color: violet;
+}
+
+#navLink:hover {
+    color: slateblue;
 }

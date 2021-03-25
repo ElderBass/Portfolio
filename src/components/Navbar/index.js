@@ -4,9 +4,14 @@ import { Link } from "react-router-dom";
 import "./style.css"
 
 const Navbar = (props) => {
+
+  const handlePageChange = () => {
+    window.location.href = "/"
+  }
+
   return (
     <nav className="navbar navbar-expand-lg navbar-collapse-md navbar-collapse-sm navbar-dark bg-dark Navbar">
-      <span style={{color: "violet"}}className="navbar-brand mb-1 Span">
+      <span onClick={handlePageChange} className="navbar-brand mb-1" id="Span">
         Seth Zygarlicke
       </span>
 
@@ -25,17 +30,17 @@ const Navbar = (props) => {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="nav navbar-nav navbar-right ms-auto">
           <li className="nav-item">
-            <Link className="nav-link" style={{color: "violet"}} to="/contact">
+            <Link className="nav-link" id="navLink"  to="/contact">
               Contact
             </Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link" style={{color: "violet"}} to="/folio">
+            <Link className="nav-link" id="navLink" to="/folio">
               Portfolio
             </Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link" style={{color: "violet"}} to="/">
+            <Link className="nav-link" id="navLink" to="/">
               About
             </Link>
           </li>

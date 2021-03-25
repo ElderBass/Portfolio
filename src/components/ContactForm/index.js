@@ -6,6 +6,7 @@ import "./style.css";
 const ContactForm = (props) => (
   <div className="container ContactContainer">
     <ContactFormHeader />
+    <hr/>
     <div className="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <form className="formInfo">
@@ -37,7 +38,7 @@ const ContactForm = (props) => (
             ></textarea>
           </div>
           <br/>
-          <button type="button" className="btn btn-primary btn-lg SubmitButton">
+          <button type="button" className="SubmitButton">
             Submit
           </button>
         </form>

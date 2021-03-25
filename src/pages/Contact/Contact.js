@@ -2,8 +2,10 @@ import React from "react";
 
 import ContactForm from "../../components/ContactForm";
 
+import "./style.css"
+
 const ContactPage = (props) => (
-  <div style={{borderRadius: "5px"}} className="container">
+  <div id="contactContainer" className="container">
     <ContactForm />
   </div>
 );
